@@ -1,0 +1,65 @@
+/*
+ Custom style for documents.
+ 
+ Not needed for Mega Menu or Bootstrap.
+ 
+ Developed by Weborithm.
+ Follow me on twitter.com/weborithm
+ 
+*/
+
+.lead { color: #5a5a5a }
+.span4 h2 { font-family: 'Lato', sans-serif; font-weight: 300; }
+.page-header h1 { font-family: 'Lato', sans-serif; font-weight: 300; } 
+.lead { font-family: 'Lato', sans-serif; font-weight: 400; }
+p { font-family: 'Karla', sans-serif; }
+.bold{ font-weight:bold}
+.size1{font-size:10px;}
+.size2{font-size:20px;}
+.size3{font-size:30px;}
+.size4{font-size:40px;}
+.size5{font-size:50px;}
+.size6{font-size:60px;}
+.middle-align{max-width:1160px;
+			margin-left:auto;
+			margin-right:auto;}
+.ulnav{
+	list-style:none;
+	padding-left:200px;
+}
+.ulnav li{
+	float:left;	
+}
+.ulnav li:nth-child(n+2){
+	padding-left:90px;
+}
+.ulnav li:nth-child(n+2) a{
+	font-size:20px;
+	font-weight:bold;
+}
+.ulnav li a{
+	color:#FFF;	
+}
+.inner-middle{
+	text-align:center;
+	padding-top:20px;	
+}
+body{
+	padding-top:60px;	
+}
+.nopad{
+	padding-top:0px;
+	padding-bottom:0px;	
+}
+.secondright tr td:nth-child(2) {
+	text-align:right;
+}
+.middle tr td:nth-child(n+2) {
+	text-align:center;
+}
+.pad div p {
+	padding:20px 15px 10px 15px;	
+}
+.pad2 p {
+	padding:20px 15px 10px 15px;	
+}
