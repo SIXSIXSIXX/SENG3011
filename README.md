@@ -1,4 +1,4 @@
 # SENG3011
-Auto Tranding Website
+Auto Trading Website
 Rest API
 Spring boot
